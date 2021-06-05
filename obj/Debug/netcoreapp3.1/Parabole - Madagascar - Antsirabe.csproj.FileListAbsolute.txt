@@ -1,0 +1,19 @@
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\bin\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe.exe
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\bin\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe.deps.json
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\bin\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe.runtimeconfig.json
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\bin\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe.runtimeconfig.dev.json
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\bin\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe.dll
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\bin\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe.pdb
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\obj\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe.csprojAssemblyReference.cache
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\obj\Debug\netcoreapp3.1\App.g.cs
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\obj\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe_MarkupCompile.cache
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\obj\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe_MarkupCompile.lref
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\obj\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe.g.resources
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\obj\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe.AssemblyInfoInputs.cache
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\obj\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe.AssemblyInfo.cs
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\obj\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe.csproj.CoreCompileInputs.cache
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\obj\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe.dll
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\obj\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe.pdb
+D:\projects\dev\information_system\Parabole - Madagascar - Antsirabe\obj\Debug\netcoreapp3.1\Parabole - Madagascar - Antsirabe.genruntimeconfig.cache
